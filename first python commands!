@@ -1,1 +1,10 @@
-
+print ("Hello World! first line of code! ^^")
+Hello World! first line of code! ^^
+>>> PRINT ("commands are case sensitive... interesting")
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    PRINT ("commands are case sensitive... interesting")
+NameError: name 'PRINT' is not defined
+>>> print ("and semi-colons are useless in Python ;)");
+and semi-colons are useless in Python ;)
+>>>
