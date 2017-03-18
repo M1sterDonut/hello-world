@@ -1,6 +1,12 @@
 print ("Hello Python world!")
-print ('... and hello again!')
-message = "Hello you guys"
+message = "Hello Python world!"
 print (message)
-message = "Will it print the same again although I named the variable twice?"
+
+message = "Hello Python Crash Course world!"
 print (message)
+
+message_2 = "Come on, be my baby, come on"
+print (message_2)
+
+mesage = "Hello Python Crash Course reader!"
+print (mesage)
